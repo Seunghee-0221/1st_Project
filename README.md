@@ -1,19 +1,30 @@
-Àü½ÂÈñ °³ÀÎ ÇÁ·ÎÁ§Æ® ¼Ò½º ÆÄÀÏµéÀÔ´Ï´Ù
+ì „ìŠ¹í¬ ê°œì¸ í”„ë¡œì íŠ¸ ì†ŒìŠ¤ íŒŒì¼ë“¤ìž…ë‹ˆë‹¤
 
-ÇÁ·ÎÁ§Æ®¸í : HWing
+í”„ë¡œì íŠ¸ëª… : HWing
 
-Âü¿©ÀÎ¿ø : 1¸í
+ì°¸ì—¬ì¸ì› : 1ëª…
 
-±â°£ : 2019.03.06 ~ 2019.03.15
+ê¸°ê°„ : 2019.03.06 ~ 2019.03.15
 
-ÇÁ·ÎÁ§Æ® ¼³¸í
+ê°œë°œí™˜ê²½	OS	Windows 7 Professional K
+	WAS	Apache Tomcat 8.5
+	DBMS	Oracle 11g Express Edition
+	Language	Java Platform 8 , JSP & Servlet
+	Model	MVC (Model 2)
+	Web	HTML5, CSS/CSS3, JavaScript
+	Tool	Eclipse IDE for Java EE Developers, Sqldeveloper
+   eXERD (E-R Modeling Tool), Start UML
+	Open Source	jQuery v3.2.1, jQuery UI v.1.12.1, cos-26Dec2008
+   
 
-- ÁÖÁ¦ ¹× ¸ñÀû
-º¸´Ù Æí¸®ÇÏ°Ô ÄÄÇ»ÅÍ °ü·Ã ÇÏµå¿þ¾î Á¤º¸/¼Ò½Ä°ú ¸®ºä/»ç¿ë±â µîÀ» °øÀ¯ÇÏ±â À§ÇÑ Ä¿¹Â´ÏÆ¼
+í”„ë¡œì íŠ¸ ì„¤ëª…
 
-- ÀÌ¿ëÀÚ
-   ÀÌ¿ëÀÚ´Â °¢ÀÚ È¸¿øµî±ÞÀ» °¡Áö°Ô µÇ¸ç ¸®ºä/»ç¿ë±â °Ô½ÃÆÇ or ÀÚÀ¯°Ô½ÃÆÇ ±Û ÀÛ¼ºÀ¸·Î    µî±ÞÀÌ ¿À¸£¸ç ·¹º§¿¡ µû¶ó ´º½º/Á¤º¸ °Ô½ÃÆÇÀÇ ÀÛ¼ºÀÌ °¡´ÉÇÏ°Ô µÈ´Ù.
+- ì£¼ì œ ë° ëª©ì 
+   ë³´ë‹¤ íŽ¸ë¦¬í•˜ê²Œ ì»´í“¨í„° ê´€ë ¨ í•˜ë“œì›¨ì–´ ì •ë³´/ì†Œì‹ê³¼ ë¦¬ë·°/ì‚¬ìš©ê¸° ë“±ì„ ê³µìœ í•˜ê¸° ìœ„í•œ ì»¤ë®¤ë‹ˆí‹°
 
-- °ü¸®ÀÚ
-   Adminastor¸¦ ±âº»°ü¸®ÀÚ·Î ÇÏ¸ç Ãß°¡·Î °ü¸®ÀÚ°èÁ¤ µî·Ï°¡´É.
-   °¢ °ü¸®ÀÚ´Â È¸¿ø°ü¸®, °øÁö»çÇ×, °Ô½Ã±Û »èÁ¦ µîÀÇ ±ÇÇÑÀ» °®´Â´Ù.
+- ì´ìš©ìž
+   ì´ìš©ìžëŠ” ê°ìž íšŒì›ë“±ê¸‰ì„ ê°€ì§€ê²Œ ë˜ë©° ë¦¬ë·°/ì‚¬ìš©ê¸° ê²Œì‹œíŒ or ìžìœ ê²Œì‹œíŒ ê¸€ ìž‘ì„±ìœ¼ë¡œ    ë“±ê¸‰ì´ ì˜¤ë¥´ë©° ë ˆë²¨ì— ë”°ë¼ ë‰´ìŠ¤/ì •ë³´ ê²Œì‹œíŒì˜ ìž‘ì„±ì´ ê°€ëŠ¥í•˜ê²Œ ëœë‹¤.
+
+- ê´€ë¦¬ìž
+   Adminastorë¥¼ ê¸°ë³¸ê´€ë¦¬ìžë¡œ í•˜ë©° ì¶”ê°€ë¡œ ê´€ë¦¬ìžê³„ì • ë“±ë¡ê°€ëŠ¥.
+   ê° ê´€ë¦¬ìžëŠ” íšŒì›ê´€ë¦¬, ê³µì§€ì‚¬í•­, ê²Œì‹œê¸€ ì‚­ì œ ë“±ì˜ ê¶Œí•œì„ ê°–ëŠ”ë‹¤.
