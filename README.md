@@ -6,7 +6,9 @@
 
 기간 : 2019.03.06 ~ 2019.03.15
 
-개발환경	OS	Windows 7 Professional K
+개발환경
+
+	OS	Windows 7 Professional K
 	WAS	Apache Tomcat 8.5
 	DBMS	Oracle 11g Express Edition
 	Language	Java Platform 8 , JSP & Servlet
